@@ -96,3 +96,4 @@ Contains the Python dependency needed to run the scripts:
 
 ### terminal_screenshot.png
 A screenshot of these scripts in action on my terminal, with the expected outputs.
+![Sample](./terminal_screenshot.png)
